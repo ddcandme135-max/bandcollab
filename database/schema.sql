@@ -1,0 +1,1 @@
+-- BandCollabo database schema
